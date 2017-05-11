@@ -1,0 +1,1 @@
+### Week 13 items consists of working with Webserver logs to find frequently visited Webpages (URL) using technologies like MapReduce, Sqoop, Hive, Pig and also write a sql statement in the MySQL Database System to obtain the same result.
